@@ -1,4 +1,4 @@
-# Uptime Kuma RetroLends Theme
+# Uptime Kuma RetroLegends Theme
 
 A nostalgic terminal-style theme for Uptime Kuma status pages that brings back the classic look of old computer terminals with a modern twist.
 
@@ -6,7 +6,7 @@ A nostalgic terminal-style theme for Uptime Kuma status pages that brings back t
 
 ## Preview
 
-[Add screenshots of the theme here]
+![Uptime Kuma Status Page](uptime_kuma_status_section.jpg)
 
 ## Features
 
@@ -22,10 +22,10 @@ A nostalgic terminal-style theme for Uptime Kuma status pages that brings back t
 
 ## Installation
 
-1. In your UptimeKuma dashboard, navigate to your status page
+1. In your Uptime Kuma dashboard, navigate to your status page
 2. Click "Edit Status Page"
 3. Scroll down to "Custom CSS"
-4. Copy the contents of `theme.css` and paste it into the Custom CSS field
+4. Copy the contents of `uptimekuma-retro-theme.css` and paste it into the Custom CSS field
 5. Save your changes
 
 ## Customization
@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Built for the amazing [UptimeKuma](https://github.com/louislam/uptime-kuma) project
+Built for the amazing [Uptime Kuma](https://github.com/louislam/uptime-kuma) project
 
 ## Author
 
